@@ -19,6 +19,15 @@ body{
 .btn{
     border-style: none;
     background-color: transparent;
+    font-weight: bold;
 
 
+}
+
+.get{
+    border-color: blue;
+    background-color: transparent;
+    color: blue;
+    font-weight: bold;
+    border-radius: 5px;
 }
